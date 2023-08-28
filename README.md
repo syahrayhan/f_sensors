@@ -4,4 +4,4 @@ Android flutter sensors
 
 ## Screenshot
 
-(read_assets/signup.jpg)
+![Deskripsi Gambar](read_assets/signup.jpg)
