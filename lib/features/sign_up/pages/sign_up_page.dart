@@ -168,8 +168,8 @@ class __FormSignUpWithEmailState extends State<_FormSignUpWithEmail> {
                 });
               },
               iconSize: 10,
-              icon: const Icon(
-                Icons.visibility_off,
+              icon: Icon(
+                isPasswordHide ? Icons.visibility_off : Icons.visibility,
                 size: 24,
               ),
             ),
